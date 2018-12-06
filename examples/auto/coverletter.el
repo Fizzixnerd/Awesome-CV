@@ -6,6 +6,7 @@
    (TeX-run-style-hooks
     "latex2e"
     "awesome-cv"
-    "awesome-cv11"))
+    "awesome-cv11"
+    "color"))
  :latex)
 
