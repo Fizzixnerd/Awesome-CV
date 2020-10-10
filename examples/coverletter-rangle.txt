@@ -1,7 +1,0 @@
-https://jobs.lever.co/rangle/06e55863-6cbd-4a4f-acda-14ec977b191c
-
-Why Me:
-I'm a driven and creative person with experience developing full-stack web applications in Haskell and JavaScript/TypeScript using functional programming techniques and React.  I have used technologies such as Postgres, ElasticSearch, React, NodeJS, and Amazon Web Services to create powerful and intuitive user experiences.  I possess strong knowledge of the fundamentals of web development and UI design, as well as advanced knowledge of mathematical techniques and their applications to programming; I am always looking to learn new techniques and technologies.  I have 10 years of experience working on Linux systems, and have two years experience developing web apps.  I have a wide skill set including a strong background in data analysis.  I communicate very well and have a friendly personality.
-
-Why Rangle:
-Rangle is a growing leader in the field of creating next-generation JavaScript applications.  I am looking for a place where growth and learning is highly valued, and Rangle's environment emphasizing mentorship and personal development seems like an excellent fit.  Being on a team with other driven and motivated people is important to me.  I also like the sound of Rangle's approach to software development which promotes teamwork and interaction with clients.

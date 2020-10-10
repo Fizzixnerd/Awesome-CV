@@ -1,5 +1,0 @@
-Why Me:
-I'm a driven and creative person with experience developing full-stack web applications in Haskell and JavaScript using functional programming techniques.  I have used technologies such as Postgres, ElasticSearch, React, and Amazon Web Services.  I possess strong knowledge of the fundamentals of web development and UI design, as well as advanced knowledge of mathematical techniques and their applications to programming.  I have years of experience working on Linux systems.  I have a wide skill set including a strong background in data analysis.  I communicate very well and have a friendly personality.  I believe I would be a great fit for the functional technologies employed at Prolucid.
-
-Why Prolucid:
-Prolucid is a leader in functional programming in industry, and this aligns very well with my interests and skill set.  I'm always looking to learn and improve, and so I think I would fit in with a culture that values growth and development.  Finally, I value a face-paced and constantly evolving environment with bright, talented people.  Prolucid sounds like a fantastic fit.
